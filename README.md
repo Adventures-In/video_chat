@@ -1,6 +1,6 @@
 # Adventreres In Video Chat
 
-A Video Chat app for Adventures In, built with Flutter and flutter_webrtc.
+A Video Chat app for Adventures In, built with Flutter and [flutter-webrtc](https://github.com/flutter-webrtc/flutter-webrtc).
 
 ## Current State
 
