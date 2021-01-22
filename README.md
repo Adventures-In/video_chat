@@ -1,16 +1,15 @@
-# video_chat
+# Adventreres In Video Chat
 
-A new Flutter project.
+A Video Chat app for Adventures In, built with Flutter and flutter_webrtc.
 
-## Getting Started
+## Current State
 
-This project is a starting point for a Flutter application.
+- tried following docs and running [flutter-webrtc-demo](https://github.com/flutter-webrtc/flutter-webrtc-demo)
+  - running on iOS gives error:
 
-A few resources to get you started if this is your first Flutter project:
+> Ignoring ffi-1.13.1 because its extensions are not built. Try: gem pristine ffi --version 1.13.1
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Completed Steps
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- added the flutter_webrtc dependency
+- configured iOS and Android as per flutter_webrtc doco
